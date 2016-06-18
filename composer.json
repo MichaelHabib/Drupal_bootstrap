@@ -1,0 +1,10 @@
+{
+    "name": "michaelhabib/bootstrap_admin-theme",
+    "authors": [
+        {
+            "name": "Michael Habib",
+            "email": "admin@designerx.com.au"
+        }
+    ],
+    "require": {}
+}
