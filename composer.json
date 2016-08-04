@@ -1,5 +1,6 @@
 {
     "name": "michaelhabib/bootstrap_admin-theme",
+    "type": "drupal-theme",
     "authors": [
         {
             "name": "Michael Habib",
